@@ -1,0 +1,33 @@
+Applied Probability Exercises
+================
+Gregory Sech
+12/11/2020
+
+## Introduction
+
+This R project contains formative exercises made during public study
+sessions for Professor [Isadora Antoniano
+Villalobos](https://www.unive.it/data/people/20055797) course [Applied
+Probability for Computer
+Science](https://www.unive.it/data/course/335487) Anyone who was present
+during the session is free to submit a pull request and integrate or
+correct exercises.
+
+## Installing
+
+I’m still learning R so I’m not 100% sure that the project was setup
+correctly. Anyone who finds something broken would do me a solid by
+opening an issue or a pull request to fix it.
+
+Anyway I’m trying to use something called
+[renv](https://rstudio.github.io/renv/) to keep track of project
+dependencies. If you are using
+[RStudio](https://rstudio.com/products/rstudio/) you should just need to
+open the project `.Rproj` file after cloning the repository and install
+the packages in the `Packages` tab (usually on the right). After that’s
+done everything should be setup and ready to be used.
+
+## Sessions
+
+  - 12/11/2020 18:00 - 20:00 First exercises session. [Event
+    link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTJsdGZmam01NTFsazI2ZmxucWFuMXI0N2IgZ3JlZ29yeS5zZWNoQG0&tmsrc=gregory.sech%40gmail.com)

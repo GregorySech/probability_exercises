@@ -2,7 +2,9 @@
 title: "Applied Probability Exercises"
 author: "Gregory Sech"
 date: "12/11/2020"
-output: html_document
+output: 
+  github_document:
+    html_preview: false
 ---
 
 ```{r setup, include=FALSE}
